@@ -1,6 +1,16 @@
 ## Credit-Card-Sales-Analysis
 
-# 📊 Overview
+### Transaction report
+
+![transaction report](https://github.com/user-attachments/assets/7e80ccf3-ab27-47e5-80c9-fffb62164e3a)
+
+
+### Customer Report
+
+![Customer report](https://github.com/user-attachments/assets/156ab85e-c998-49fc-8086-82a1487cd072)
+
+
+## 📊 Overview
 
 Two interconnected dashboards providing comprehensive business intelligence:
 
